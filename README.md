@@ -1,6 +1,8 @@
 # JavaScript Calculator 
 
-This is simple calculator implemented using the principles of Object Oriented Programming 
+This is a simple calculator implemented using the principles of Object Oriented Programming 
 
 ![JS Calculator](img/calculator.gif)
 
+## Install
+* Clone the repository and open index.html
